@@ -10,7 +10,7 @@ the theme picker lists every folder in this repo, and picking one checks out
 only that folder.
 
 ```bash
-df-theme-fetch --init        # clone or refresh the index
+df-theme-fetch --sync        # clone or refresh the index
 df-theme-available           # list themes in this repo
 df-theme-fetch rose-pine     # check out one theme
 df-theme-set rose-pine       # apply it
