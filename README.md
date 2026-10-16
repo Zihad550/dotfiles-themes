@@ -20,5 +20,6 @@ df-theme-set rose-pine       # apply it
 
 Create `<name>/colors.toml` with `accent`, `cursor`, `foreground`,
 `background`, `selection_foreground`, `selection_background` and
-`color0`–`color15`. Optional files: `light.mode`, `icons.theme`,
+`color0`–`color15`, or with Omarchy's semantic names (`red`, `bright_blue`,
+`muted`, `selection`, `mode = "light"`, ...). Optional files: `light.mode`, `icons.theme`,
 `neovim.lua`, `vscode.json`, `obsidian-border-theme.json`.
